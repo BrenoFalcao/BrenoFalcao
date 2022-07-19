@@ -3,7 +3,7 @@
 - 🔭 Atualmente faço faculdade de Gestão da tecnologia da informação
 - 🧠 Estudando Javascript
 - 👀 contate-me no email: falcao3110@gmail.com
-- 🙎🏽‍♂️ pronouns: ele/dele
+- 💻 pronouns: ele/dele
  
 <div align="center">
   <a href="https://github.com/BrenoFalcao">
