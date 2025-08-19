@@ -3,7 +3,13 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Breno Falcão Argento , tenho 21 anos e sou natural do Rio de Janeiro. Finalizei minha faculdade de Gestão da Tecnologia da Informação em 2024. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na estácio. Sou apaixonado por tecnologia e amo aprender ferramentas novas que me ajudem a me desenvolver profissionalmente
+📌Tenho 22 anos e sou programador full stack, com sólido domínio em Java e experiência também em C++, JavaScript, HTML, CSS e MySQL. Trabalho com frameworks e tecnologias como React.js, React Native, Node.js e PHP.
+
+🚀Sou formado em Gestão da Tecnologia da Informação, possuo inglês intermediário e espanhol básico. Apaixonado por inovação e tecnologia, busco constantemente aprimorar minhas habilidades e acompanhar as tendências do mercado.
+
+📌Tenho forte capacidade de liderança técnica, experiência em gestão de projetos e foco na entrega de soluções eficientes. Estou aberto a novas oportunidades e desafios, contribuindo para o crescimento das empresas por meio da tecnologia.
+
+Meu portifólio 🌍 : https://brenofalcãoargento.com.br/
 <p align="left">
   <a href="https://github.com/BrenoFalcao?tab=repositories&sort=stargazers">
     <img alt="Total de estrelhas" title="Total de estrelhas GitHub"
